@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="hello">שלום</string>
+  <string name="title_text">Google Sign-In\\nQuickstart</string>
+  <string name="signed_out">signed out</string>
+  <string name="sign_out">Sign Out</string>
+  <string name="disconnect">Disconnect</string>
+
+  <string name="select_category">בחר קטגוריה</string>
+  <string name="resource_name">שם המוצר</string>
+  <string name="add_photo">הוספת תמונה</string>
+
+  <string name="take_photo">צילום תמונה</string>
+  <string name="choose_from_gallery">בחירה מתוך גלרייה</string>
+
+  <string name="cancel">ביטול</string>
+
+    <string name="add_property">הוספת פריט</string>
+
+    <string name="describe">פירוט</string>
+
+    <string name="select_register_method">SELECT REGISTER METHOD</string>
+    <string name="or">או</string>
+    <string name="email">אימייל</string>
+    <string name="password">סיסמא</string>
+    <string name="confirm_password">אשר סיסמא</string>
+
+  <string name="offer_type">סוג הצעה</string>
+  <string name="condition">מצב</string>
+  <string name="select_a_condition">בחירת מצב</string>
+  <string name="select_currency">בחירת מטבע</string>
+
+  <string name="select_offer_type">בחירת סוג הצעה</string>
+
+  <string name="price">מחיר</string>
+
+  <string name="main">ראשי</string>
+  <string name="my_profile">הפרופיל שלי</string>
+  <string name="chat">צ׳אט</string>
+
+  <string name="first_name">שם פרטי</string>
+  <string name="last_name">שם משפחה</string>
+
+  <string name="connected">מחובר</string>
+  <string name="not_connected">לא מחובר</string>
+
+</resources>
